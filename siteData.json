@@ -145,6 +145,14 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/ZhuoHui.md",
+      "headings": {
+        "koo-zhuo-hui": "Koo Zhuo Hui",
+        "about-myself": "About Myself"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/johndoe.md",
       "title": "John Doe's Project Portfolio Page",
       "headings": {
