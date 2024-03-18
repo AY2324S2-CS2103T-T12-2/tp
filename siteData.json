@@ -145,6 +145,15 @@
       "headingKeywords": {}
     },
     {
+      "src": "team/ChenRunjia.md",
+      "headings": {
+        "hi-i-m-runjia-runjiachen": "Hi! I'm Runjia (@RunjiaChen)",
+        "some-background-info": "Some background info",
+        "some-fun-facts": "Some fun facts"
+      },
+      "headingKeywords": {}
+    },
+    {
       "src": "team/KervynTanJiawei.md",
       "headings": {
         "kervyn-tan-jiawei": "Kervyn Tan Jiawei",
