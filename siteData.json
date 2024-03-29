@@ -53,6 +53,7 @@
         "implementation": "Implementation",
         "proposed-undo-redo-feature": "[Proposed] Undo/redo feature",
         "proposed-data-archiving": "[Proposed] Data archiving",
+        "safe-removal-feature": "Safe-Removal feature",
         "fuzzy-input": "Fuzzy Input",
         "future-development-fuzzy-input-with-varying-distance-metric": "[Future Development] Fuzzy Input with varying distance metric",
         "sort-feature": "Sort feature",
