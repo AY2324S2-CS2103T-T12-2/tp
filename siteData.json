@@ -131,6 +131,7 @@
         "removing-a-person-with-safe-removal-remove": "Removing a person (With safe removal): remove",
         "undo-previous-command-undo": "Undo Previous Command : undo",
         "copies-a-person-information-to-clipboard-copy": "Copies a Person Information to Clipboard : copy",
+        "sorting-the-contacts-sort": "Sorting the Contacts : sort",
         "filtering-by-tag-filter": "Filtering by Tag : filter",
         "adding-a-contact-with-duplicate-identity-duplicate": "Adding a Contact with Duplicate Identity : duplicate",
         "overwriting-an-existing-contact-overwrite": "Overwriting an Existing Contact : overwrite",
