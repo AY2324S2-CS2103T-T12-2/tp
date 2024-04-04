@@ -133,6 +133,7 @@
         "copies-a-person-information-to-clipboard-copy": "Copies a Person Information to Clipboard : copy",
         "filtering-by-tag-filter": "Filtering by Tag : filter",
         "adding-a-contact-with-duplicate-identity-duplicate": "Adding a Contact with Duplicate Identity : duplicate",
+        "overwriting-an-existing-contact-overwrite": "Overwriting an Existing Contact : overwrite",
         "clearing-all-entries-clear": "Clearing all entries : clear",
         "exiting-the-program-exit": "Exiting the program : exit",
         "saving-the-data": "Saving the data",
