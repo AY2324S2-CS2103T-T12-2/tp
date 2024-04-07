@@ -509,10 +509,10 @@ with(this){return _c('p',[_c('em',[_v("{More to be added}")])])}
 with(this){return _c('h3',{attrs:{"id":"use-cases"}},[_v("Use cases"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-cases","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_v("(For all use cases below, the "),_c('strong',[_v("System")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("AddressBook")]),_v(" and the "),_c('strong',[_v("Actor")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("user")]),_v(", unless specified otherwise)")])}
+with(this){return _c('p',[_v("(For all use cases below, the "),_c('strong',[_v("System")]),_v(" is "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("LookMeUp")]),_v(" and the "),_c('strong',[_v("Actor")]),_v(" is the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("user")]),_v(", unless specified otherwise)")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC1 - Add a contact"),_c('br'),_v(" "),_c('strong',[_v("Actor:")]),_v(" User"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
+with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC1 - Add a contact"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
@@ -527,7 +527,7 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User typed an invalid command")]),_v(" "),_c('ul',[_c('li',[_v("1a1. LookMeUp displays the error and shows a list of commands it supports.")]),_v(" "),_c('li',[_v("1a2. User enters the correct command.")])]),_v(" "),_c('p',[_v("Steps 1a1-1a2 are repeated until the command entered is correct."),_c('br'),_v("\nUse case resumes from step 2.")])]),_v(" "),_c('li',[_c('p',[_v("3a. LookMeUp detects an error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. LookMeUp displays the error and requests for the correct data.")]),_v(" "),_c('li',[_v("3a2. User enters the new data.")])]),_v(" "),_c('p',[_v("Steps 3a1-3a2 are repeated until the data entered are correct."),_c('br'),_v("\nUse case resumes from step 4.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC2 - Remove a contact"),_c('br'),_v(" "),_c('strong',[_v("Actor:")]),_v(" User"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
+with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC2 - Remove a contact"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
@@ -542,7 +542,7 @@ with(this){return _c('p',[_c('strong',[_v("Extensions")])])}
 with(this){return _c('ul',[_c('li',[_c('p',[_v("1a. User typed an invalid command")]),_v(" "),_c('ul',[_c('li',[_v("1a1. LookMeUp displays the error and shows a list of commands it supports.")]),_v(" "),_c('li',[_v("1a2. User enters the correct command.")])]),_v(" "),_c('p',[_v("Steps 1a1-1a2 are repeated until the command entered is correct."),_c('br'),_v("\nUse case resumes from step 2.")])]),_v(" "),_c('li',[_c('p',[_v("3a. LookMeUp detects an error in the entered data.")]),_v(" "),_c('ul',[_c('li',[_v("3a1. LookMeUp displays the error and requests for the correct data.")]),_v(" "),_c('li',[_v("3a2. User enters the new data.")])]),_v(" "),_c('p',[_v("Steps 3a1-3a2 are repeated until the data entered are correct."),_c('br'),_v("\nUse case resumes from step 4.")])]),_v(" "),_c('li',[_c('p',[_v("4a. User declines the removal of contact.")]),_v(" "),_c('ul',[_c('li',[_v("4a1, LookMeUp confirms user's selection."),_c('br'),_v("\nUse case ends.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC3 - Filter contacts by tags"),_c('br'),_v(" "),_c('strong',[_v("Actor:")]),_v(" User"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
+with(this){return _c('p',[_c('strong',[_v("Use case:")]),_v(" UC3 - Filter contacts by tags"),_c('br'),_v(" "),_c('strong',[_v("Person that can play this role:")]),_v(" Student in a lot of committees")])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("MSS")])])}
@@ -584,7 +584,7 @@ with(this){return _c('p',[_c('em',[_v("{More to be added}")])])}
 with(this){return _c('h3',{attrs:{"id":"glossary"}},[_v("Glossary"),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#glossary","onclick":"event.stopPropagation()"}})])}
 },function anonymous(
 ) {
-with(this){return _c('ul',[_c('li',[_c('strong',[_v("Mainstream OS")]),_v(": Windows, Linux, Unix, MacOS")]),_v(" "),_c('li',[_c('strong',[_v("Private contact detail")]),_v(": A contact detail that is not meant to be shared with others")]),_v(" "),_c('li',[_c('strong',[_v("IT-savvy")]),_v(": The user is not familiar with the exact format of the add command.")]),_v(" "),_c('li',[_c('strong',[_v("Side pop-up window")]),_v(": Additional windows that can be opened by the user during usage of the software(e.g. the help window).")])])}
+with(this){return _c('ul',[_c('li',[_c('strong',[_v("Mainstream OS")]),_v(": Windows, Linux, Unix, MacOS")]),_v(" "),_c('li',[_c('strong',[_v("Private contact detail")]),_v(": A contact detail that is not meant to be shared with others")]),_v(" "),_c('li',[_c('strong',[_v("IT-savvy")]),_v(": The user is not familiar with the exact format of the add command.")]),_v(" "),_c('li',[_c('strong',[_v("Side pop-up window")]),_v(": Additional windows that can be opened by the user during usage of the software(e.g. the help window).")]),_v(" "),_c('li',[_c('strong',[_v("SOLID principle")]),_v(": The SOLID principle is a set of five design principles used in object-oriented programming to make software designs more understandable, flexible, and maintainable. The acronym SOLID stands for:\n"),_c('ul',[_c('li',[_v("Single Responsibility Principle")]),_v(" "),_c('li',[_v("Open/Closed Principle")]),_v(" "),_c('li',[_v("Liskov Substitution Principle")]),_v(" "),_c('li',[_v("Interface Segregation Principle")]),_v(" "),_c('li',[_v("Dependency Inversion Principle")])])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"appendix-instructions-for-manual-testing"}},[_c('strong',[_v("Appendix: Instructions for manual testing")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#appendix-instructions-for-manual-testing","onclick":"event.stopPropagation()"}})])}
@@ -608,6 +608,6 @@ with(this){return _c('h3',{attrs:{"id":"saving-data"}},[_v("Saving data"),_c('a'
 with(this){return _c('ol',[_c('li',[_c('p',[_v("Dealing with missing/corrupted data files")]),_v(" "),_c('ol',[_c('li',[_c('em',[_v("{explain how to simulate a missing/corrupted file, and the expected behavior}")])])])]),_v(" "),_c('li',[_c('p',[_c('em',[_v("{ more test cases …​ }")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sun, 7 Apr 2024, 13:11:43 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Mon, 8 Apr 2024, 7:49:04 GMT+8]")])])])}
 }];
   
