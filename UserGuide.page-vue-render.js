@@ -44,7 +44,7 @@ with(this){return _c('blockquote',[_c('p',[_v("[!IMPORTANT]")]),_v(" "),_c('ul',
 with(this){return _c('ul',[_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/John Doe p/98765432 e/johnd@example.com a/John street, block 123, #01-01")])]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add n/Betsy Crowe t/friend e/betsycrowe@example.com a/Newgate Prison p/1234567 t/criminal")])])])}
 },function anonymous(
 ) {
-with(this){return _c('blockquote',[_c('p',[_v("[!NOTE]")]),_v(" "),_c('ul',[_c('li',[_v("Do be careful when you are adding a new contact, as extra spacing could lead to a similar or identical name\nbeing recognized as a new, unique name. e.g. John Doe is not the same as JohnDoe")])])])}
+with(this){return _c('blockquote',[_c('p',[_v("[!NOTE]")]),_v(" "),_c('ul',[_c('li',[_v("Do be careful when you are adding a new contact, as extra spacing could lead to a similar or identical name\nbeing recognized as a new, unique name. e.g. John Doe is not the same as JohnDoe")]),_v(" "),_c('li',[_v("Similarly, names are also case-sensitive, so do be careful when entering your contact's name as well.\ne.g. John Doe is treated differently from John doe")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h3',{attrs:{"id":"adding-a-person-with-system-prompts-addbystep"}},[_v("Adding a person (With System Prompts): "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("addbystep")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#adding-a-person-with-system-prompts-addbystep","onclick":"event.stopPropagation()"}})])}
@@ -263,6 +263,6 @@ with(this){return _c('h3',{attrs:{"id":"lexicographical"}},[_v("Lexicographical"
 with(this){return _c('ul',[_c('li',[_v("Order of words based on the alphabetical order of their letters.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Thu, 11 Apr 2024, 3:33:52 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Fri, 12 Apr 2024, 23:57:30 GMT+8]")])])])}
 }];
   
