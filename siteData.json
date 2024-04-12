@@ -58,7 +58,6 @@
         "sort-feature": "Sort feature",
         "design-consideration": "Design consideration:",
         "add-by-step": "Add By Step",
-        "planned-enhancements": "Planned Enhancements",
         "duplicate-feature": "Duplicate feature",
         "design-consideration-2": "Design consideration:",
         "exit-window": "Exit Window",
@@ -73,8 +72,10 @@
         "glossary": "Glossary",
         "appendix-instructions-for-manual-testing": "Appendix: Instructions for manual testing",
         "launch-and-shutdown": "Launch and shutdown",
+        "add-by-step-2": "Add By Step",
         "deleting-a-person": "Deleting a person",
-        "saving-data": "Saving data"
+        "saving-data": "Saving data",
+        "planned-enhancements": "Planned Enhancements"
       },
       "headingKeywords": {}
     },
