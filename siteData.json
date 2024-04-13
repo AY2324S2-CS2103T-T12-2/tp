@@ -55,7 +55,6 @@
         "safe-removal-feature": "Safe-Removal feature",
         "fuzzy-input": "Fuzzy Input",
         "sort-feature": "Sort feature",
-        "design-consideration": "Design consideration:",
         "add-by-step": "Add By Step",
         "duplicate-feature": "Duplicate feature",
         "design-consideration-2": "Design consideration:",
@@ -143,6 +142,7 @@
         "known-issues": "Known issues",
         "command-summary": "Command summary",
         "glossary": "Glossary",
+        "bk-tree": "BK-Tree",
         "lexicographical": "Lexicographical"
       },
       "headingKeywords": {}
