@@ -626,6 +626,6 @@ with(this){return _c('h3',{attrs:{"id":"planned-enhancements"}},[_v("Planned Enh
 with(this){return _c('ol',[_c('li',[_v("Currently, "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("AddCommandHelper")]),_v(" has to be closed manually, which is not optimised for fast typists. We plan to add a\nan exit command to "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("AddCommandHelper")]),_v(" such that you can close the window simply by typing the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("exit")]),_v(" command")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sat, 13 Apr 2024, 0:04:57 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 5.4.0")]),_v(", generated on Sat, 13 Apr 2024, 12:18:44 GMT+8]")])])])}
 }];
   
